@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+
+# Arquivos temporários e de cache
+temp/
+.DS_Store
+
+# Cypress: arquivos gerados automaticamente
+cypress/screenshots/
+cypress/videos/
+cypress.env.json
+cypress/integration/exemploTesteRegressaoVisualPlugin/__image_snapshots__/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configurações locais
+.vscode/
+
+# Arquivos do sistema operacional
+Thumbs.db
