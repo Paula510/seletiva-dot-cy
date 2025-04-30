@@ -14,8 +14,8 @@ Este projeto contém testes automatizados desenvolvidos com Cypress, aplicados s
 ## 📥 Como clonar o projeto
 
 ```bash
-git clone https://github.com/Paula510/seletiva-dot-cypress.git
-cd seletiva-dot-cypress
+git clone https://github.com/Paula510/seletiva-dot-cy.git
+cd seletiva-dot-cy
 ```
 
 ---
